@@ -4,7 +4,6 @@ import {
   SKIN_TYPE_LABEL,
   budgetLabel,
   formatPrice,
-  isSimpleRoutine,
   mainConcern,
   recommend,
   skinTypeFromAnswers,
@@ -525,4 +524,3 @@ function Results({
   );
 }
 
-export { isSimpleRoutine };
